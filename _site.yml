@@ -1,0 +1,19 @@
+name: "my-website"
+navbar:
+  title: "Tiffany Winter"
+  left: 
+    - text: "About Me"
+      href: index.html
+    - text: "Urchins"
+      href: urchins.html
+    - text: "Phytoplankton"
+      href: phyto.html
+    - text: "Zoo"
+      href: zoo.html
+    
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<tiffany.winter@unh.edu>
+output:
+  html_document:
+    theme: darkly

@@ -1,0 +1,21 @@
+
+```
+title: "Gradute Work"
+
+```
+
+**Phytoplankton HABs**
+
+As a masters student I am studying a harmful algal bloom (HAB) species that is starting to become a problem in the Gulf of Maine known as *Pseudo-nitzschia*. Prior to 2016 it was present but never caused an issue concerning blooms. Since 2016 we have seen a bloom every year and it is out competing our normal problem species *Alexandrium* but we are not sure why. My thesis is studying the ecology of *Pseudo-nitzschia* and using historical data to answer some of our questions surrounding this HAB species. I will be transferring to a PhD and diving further into this work.
+
+
+
+**Thesis**
+
+I am currently conducting statistical modeling to ascertain a relationship between the environment, *Pseudo-nitzschia*, and *Alexandrium*. To do this I am using historical data from multiple sources. My species abundance data is coming from the weekly sampling of the New Hampshire Watershed Management Bureau, specifically those concerned with monitoring HAB species and toxins. I am combining this data for one location with environmental data from a NERACOOS buoy to study environmental impacts on blooms.
+
+
+
+**Dissertation**
+
+For my dissertation I will broaden my research to include ecological relationships in the field and lab, bioinformatics surrounding transcriptomics of toxin production, and further modeling using new information learned from the two prior investigations.
